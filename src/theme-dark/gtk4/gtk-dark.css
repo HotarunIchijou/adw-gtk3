@@ -16,13 +16,13 @@
 @define-color window_fg_color white;
 @define-color view_bg_color #1d1d20;
 @define-color view_fg_color white;
-@define-color headerbar_bg_color #2e2e32;
+@define-color headerbar_bg_color #222226;
 @define-color headerbar_fg_color white;
 @define-color headerbar_border_color white;
 @define-color headerbar_backdrop_color @window_bg_color;
 @define-color headerbar_shade_color RGB(0 0 6/36%);
 @define-color headerbar_darker_shade_color RGB(0 0 12/90%);
-@define-color sidebar_bg_color #2e2e32;
+@define-color sidebar_bg_color #222226;
 @define-color sidebar_fg_color white;
 @define-color sidebar_backdrop_color #28282c;
 @define-color sidebar_shade_color RGB(0 0 6/25%);
